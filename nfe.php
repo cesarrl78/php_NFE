@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="ASCII"?>
+<EnviarLoteRpsEnvio xmlns="http://www.ginfes.com.br/servico_enviar_lote_rps_envio" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:tip="http://www.ginfes.com.br/tipos" >
+<NumeroLote>1</NumeroLote>
+<Cnpj>00000000000000</Cnpj>
+<InscricaoMunicipal>00000</InscricaoMunicipal>
+<QuantidadeRps>00</QuantidadeRps>
+<ListaRps>
+<Rps>
+<!-- ********** DESCRICAO ********** -->
+   <tip:IdentificacaoRps>
+      <tip:Numero>00000</tip:Numero>
+      <tip:Serie>00</tip:Serie>
+      <tip:Tipo>1</tip:Tipo>
+   </tip:IdentificacaoRps>
+   <tip:DataEmissao>2021-00-00T00:00:00</tip:DataEmissao>
+   <tip:NaturezaOperacao>4</tip:NaturezaOperacao>
+   <tip:OptanteSimplesNacional>2</tip:OptanteSimplesNacional>
+   <tip:IncentivadorCultural>2</tip:IncentivadorCultural>
+   <tip:Status>1</tip:Status>
+   <tip:Servico>
+      <tip:Valores>
+         <tip:ValorServicos>0000.00</tip:ValorServicos>
+         <tip:ValorDeducoes>0.00</tip:ValorDeducoes>
+         <tip:ValorPis>0.00</tip:ValorPis>
+         <tip:ValorCofins>00.00</tip:ValorCofins>
+         <tip:ValorInss>0.00</tip:ValorInss>
+         <tip:ValorIr>0.00</tip:ValorIr>
+         <tip:ValorCsll>0.00</tip:ValorCsll>
+         <tip:IssRetido>2</tip:IssRetido>
+         <tip:ValorIss>0.00</tip:ValorIss>
+         <tip:OutrasRetencoes>0.00</tip:OutrasRetencoes>
+         <tip:BaseCalculo>0000.00</tip:BaseCalculo>
+         <tip:Aliquota>0.00</tip:Aliquota>
+         <tip:ValorLiquidoNfse>0000.00</tip:ValorLiquidoNfse>
+         <tip:ValorIssRetido>0.00</tip:ValorIssRetido>
+      </tip:Valores>
+      <tip:ItemListaServico>0801</tip:ItemListaServico>
+      <tip:CodigoTributacaoMunicipio>0000000</tip:CodigoTributacaoMunicipio>
+      <tip:Discriminacao>DESRICAO ATE 30</tip:Discriminacao>
+      <tip:MunicipioPrestacaoServico>0000000</tip:MunicipioPrestacaoServico>
+   </tip:Servico>
+   <tip:Prestador>
+      <tip:Cnpj>000000000000000</tip:Cnpj>
+      <tip:InscricaoMunicipal>00000</tip:InscricaoMunicipal>
+   </tip:Prestador>
+   <tip:Tomador>
+      <tip:IdentificacaoTomador>
+         <tip:CpfCnpj>
+            <tip:Cpf>0000000000</tip:Cpf>
+         </tip:CpfCnpj>
+      </tip:IdentificacaoTomador>
+      <tip:RazaoSocial>NOME COMPLETO</tip:RazaoSocial>
+      <tip:Endereco>
+         <tip:Endereco>ENDERECO</tip:Endereco>
+         <tip:Bairro>BAIRRRO</tip:Bairro>
+         <tip:Cidade>0000000</tip:Cidade>
+         <tip:Cep>00000000</tip:Cep>
+      </tip:Endereco>
+      <tip:Contato>
+         <tip:Email>EMAIL@TESTE.COM.BR</tip:Email>
+      </tip:Contato>
+   </tip:Tomador>
+</Rps>
+ 
+<Rps>
+<!-- ********** DESCRICAO ********** -->
+   <tip:IdentificacaoRps>
+      <tip:Numero>00000</tip:Numero>
+      <tip:Serie>00</tip:Serie>
+      <tip:Tipo>1</tip:Tipo>
+   </tip:IdentificacaoRps>
+   <tip:DataEmissao>2021-00-00T00:00:00</tip:DataEmissao>
+   <tip:NaturezaOperacao>4</tip:NaturezaOperacao>
+   <tip:OptanteSimplesNacional>2</tip:OptanteSimplesNacional>
+   <tip:IncentivadorCultural>2</tip:IncentivadorCultural>
+   <tip:Status>1</tip:Status>
+   <tip:Servico>
+      <tip:Valores>
+         <tip:ValorServicos>0000.00</tip:ValorServicos>
+         <tip:ValorDeducoes>0.00</tip:ValorDeducoes>
+         <tip:ValorPis>0.00</tip:ValorPis>
+         <tip:ValorCofins>00.00</tip:ValorCofins>
+         <tip:ValorInss>0.00</tip:ValorInss>
+         <tip:ValorIr>0.00</tip:ValorIr>
+         <tip:ValorCsll>0.00</tip:ValorCsll>
+         <tip:IssRetido>2</tip:IssRetido>
+         <tip:ValorIss>0.00</tip:ValorIss>
+         <tip:OutrasRetencoes>0.00</tip:OutrasRetencoes>
+         <tip:BaseCalculo>0000.00</tip:BaseCalculo>
+         <tip:Aliquota>0.00</tip:Aliquota>
+         <tip:ValorLiquidoNfse>0000.00</tip:ValorLiquidoNfse>
+         <tip:ValorIssRetido>0.00</tip:ValorIssRetido>
+      </tip:Valores>
+      <tip:ItemListaServico>0000</tip:ItemListaServico>
+      <tip:CodigoTributacaoMunicipio>0000000</tip:CodigoTributacaoMunicipio>
+      <tip:Discriminacao>DESRICAO ATE 30</tip:Discriminacao>
+      <tip:MunicipioPrestacaoServico>0000000</tip:MunicipioPrestacaoServico>
+   </tip:Servico>
+   <tip:Prestador>
+      <tip:Cnpj>000000000000000</tip:Cnpj>
+      <tip:InscricaoMunicipal>00000</tip:InscricaoMunicipal>
+   </tip:Prestador>
+   <tip:Tomador>
+      <tip:IdentificacaoTomador>
+         <tip:CpfCnpj>
+            <tip:Cpf>0000000000</tip:Cpf>
+         </tip:CpfCnpj>
+      </tip:IdentificacaoTomador>
+      <tip:RazaoSocial>NOME COMPLETO</tip:RazaoSocial>
+      <tip:Endereco>
+         <tip:Endereco>ENDERECO</tip:Endereco>
+         <tip:Bairro>BAIRRRO</tip:Bairro>
+         <tip:Cidade>0000000</tip:Cidade>
+         <tip:Cep>00000000</tip:Cep>
+      </tip:Endereco>
+      <tip:Contato>
+         <tip:Email>EMAIL@TESTE.COM.BR</tip:Email>
+      </tip:Contato>
+   </tip:Tomador>
+</Rps>
+ 
+ 
+</ListaRps>
+</EnviarLoteRpsEnvio>
